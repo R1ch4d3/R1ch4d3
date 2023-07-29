@@ -7,7 +7,6 @@
 <body>
 <head>
 
-<title>Rogerio</title>
 <h1>Rogerio</h1>
 <p>
 é um cara muito pica
