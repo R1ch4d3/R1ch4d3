@@ -9,7 +9,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-
         .bnt{
             color:rgb(203, 236, 255);
             background-color: rgb(85, 0, 134);
@@ -25,15 +24,12 @@
             height: 50px;
             border: 2px #000 solid;
             border-radius: 15px;
-            
         }
-
         .quadrado{
             width: 1200px;
             height: 50px;
             background-color: #000;
         }
-
     </style>
 </head>
 <body>
