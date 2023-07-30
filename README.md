@@ -36,7 +36,7 @@
 <body>
     <h1> RICH4D3 </h1>
     <div class = "quadrado"></div>
-    <button class = "bnt" type ="button" form= "" onclick=" alert('gostaria de para p o insta mesmo?');">
+    <button class = "bnt" type ="button" form= "" ;">
         insta
     </button>
 </body>
